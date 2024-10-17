@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/keyur__2311" target="blank"><img align="center" src="https://imgs.search.brave.com/NLhaNZTq6JsLsrr0k3yPKBGPT0fo-PEjsHmT1cIBuOU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IveC1hcHAtbG9n/b18xMDk3MTYxLTQz/LmpwZz9zaXplPTYy/NiZleHQ9anBn" alt="keyur__2311" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/keyur-patel-a633aa20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keyur-patel-a633aa20a/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/keyur-patel-a633aa20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keyur-patel-a633aa20a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
