@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **keyurpatel2311@gmail.com**
 
-- 📄 Want to Know more about me? https://drive.google.com/file/d/1EYIbTpN8UPhB7fWXWFUk_lR2qrQpD8O-/view
+- 📄 Want to Know more about me? https://drive.google.com/file/d/1ApFM-Ma7YW4iJmFApgUDymTbkNA4jZGw/view?usp=sharing
 
 - ⚡ Fun fact **Nothing 😀**
 
