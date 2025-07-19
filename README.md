@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Keyur Patel</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h3 align="center">Data Scientist & Data Analyst</h3>
 
 - 👨‍💻 All of my projects are available at [https://keyur23.github.io/](https://keyur23.github.io/)
 
