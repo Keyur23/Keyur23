@@ -21,7 +21,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **📚 Programming & Query Languages**
 
@@ -31,7 +31,7 @@
 • **DAX**
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **🤖 Machine Learning & AI**
 
@@ -43,7 +43,9 @@
 • Feature Engineering
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **📊 Statistical Analysis & Modeling**
 
@@ -54,9 +56,7 @@
 • Predictive Modeling
 
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **🔧 Data Engineering & Big Data**
 
@@ -68,7 +68,9 @@
 • MLOps
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **☁️ Cloud & Infrastructure**
 
@@ -78,7 +80,7 @@
 • **Docker, Kubernetes**
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **📈 Data Visualization & BI Tools**
 
@@ -90,7 +92,7 @@
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **🔍 Analytics & Methodology**
 
@@ -100,7 +102,7 @@
 • Data Mining
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **💡 Soft Skills**
 
@@ -108,9 +110,6 @@
 • Dashboard Creation & Design  
 • Stakeholder Communication  
 • Problem-Solving
-
-</td>
-<td width="33%" valign="top">
 
 </td>
 </tr>
