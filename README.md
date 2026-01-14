@@ -50,7 +50,7 @@
 #### Cloud & Infrastructure
 **AWS:** S3, EC2, SageMaker, Redshift  
 **Azure:** Azure ML, Databricks  
-**GCP:** Google Cloud Platform  
+**Google Cloud Platform**  
 **Tools:** Docker, Kubernetes
 
 #### Data Visualization & BI Tools
