@@ -17,98 +17,83 @@
 <a href="https://www.linkedin.com/in/keyur-patel-a633aa20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keyur-patel-a633aa20a/" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">💼 Professional Skills</h2>
+<h2 align="center">💼 Professional Skills</h2>
 
-<h3 align="left">🔬 Data Scientist Skills</h3>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<h4>Programming & Query Languages</h4>
-<p>
-  <strong>Python:</strong> Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, PyTorch<br>
-  <strong>R:</strong> dplyr, ggplot2, tidyr, caret<br>
-  <strong>SQL:</strong> MySQL, PostgreSQL, NoSQL
-</p>
+### 🔬 Data Scientist Skills
 
-<h4>Machine Learning & AI</h4>
-<ul>
-  <li>Supervised Learning, Unsupervised Learning</li>
-  <li>Deep Learning (Neural Networks, CNN, RNN)</li>
-  <li>Natural Language Processing (NLP)</li>
-  <li>Ensemble Methods (Random Forest, XGBoost, Gradient Boosting)</li>
-  <li>Model Evaluation, Hyperparameter Tuning, Feature Engineering</li>
-</ul>
+#### Programming & Query Languages
+**Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, PyTorch  
+**R:** dplyr, ggplot2, tidyr, caret  
+**SQL:** MySQL, PostgreSQL, NoSQL
 
-<h4>Statistical Analysis & Modeling</h4>
-<ul>
-  <li>Statistical Analysis, Hypothesis Testing</li>
-  <li>Regression Analysis, Time Series Forecasting</li>
-  <li>Predictive Modeling</li>
-</ul>
+#### Machine Learning & AI
+• Supervised Learning, Unsupervised Learning  
+• Deep Learning (Neural Networks, CNN, RNN)  
+• Natural Language Processing (NLP)  
+• Ensemble Methods (Random Forest, XGBoost, Gradient Boosting)  
+• Model Evaluation, Hyperparameter Tuning, Feature Engineering
 
-<h4>Data Engineering & Big Data</h4>
-<ul>
-  <li>ETL, Data Preprocessing, Data Pipeline Development</li>
-  <li>Hadoop, Apache Spark, Kafka, Airflow</li>
-  <li>MLOps</li>
-</ul>
+#### Statistical Analysis & Modeling
+• Statistical Analysis, Hypothesis Testing  
+• Regression Analysis, Time Series Forecasting  
+• Predictive Modeling
 
-<h4>Cloud & Infrastructure</h4>
-<p>
-  <strong>AWS:</strong> S3, EC2, SageMaker, Redshift<br>
-  <strong>Azure:</strong> Azure ML, Databricks<br>
-  <strong>Google Cloud Platform</strong><br>
-  Docker, Kubernetes
-</p>
+#### Data Engineering & Big Data
+• ETL, Data Preprocessing, Data Pipeline Development  
+• Hadoop, Apache Spark, Kafka, Airflow  
+• MLOps
 
-<h4>Data Visualization & BI Tools</h4>
-<ul>
-  <li>Matplotlib, Seaborn, Plotly, ggplot2</li>
-  <li>Tableau, Power BI</li>
-  <li>Jupyter Notebooks</li>
-</ul>
+#### Cloud & Infrastructure
+**AWS:** S3, EC2, SageMaker, Redshift  
+**Azure:** Azure ML, Databricks  
+**GCP:** Google Cloud Platform  
+**Tools:** Docker, Kubernetes
 
----
+#### Data Visualization & BI Tools
+• Matplotlib, Seaborn, Plotly, ggplot2  
+• Tableau, Power BI  
+• Jupyter Notebooks
 
-<h3 align="left">📊 Data Analyst Skills</h3>
+</td>
+<td width="50%" valign="top">
 
-<h4>Programming & Query Languages</h4>
-<p>
-  <strong>Python:</strong> Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn<br>
-  <strong>R:</strong> dplyr, ggplot2, tidyr<br>
-  <strong>SQL:</strong> MySQL, PostgreSQL, SQL Server<br>
-  <strong>DAX</strong>
-</p>
+### 📊 Data Analyst Skills
 
-<h4>Data Visualization & BI Tools</h4>
-<ul>
-  <li>Tableau, Power BI, Looker</li>
-  <li>Excel (Advanced functions, Pivot Tables, VBA, Power Query)</li>
-</ul>
+#### Programming & Query Languages
+**Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**R:** dplyr, ggplot2, tidyr  
+**SQL:** MySQL, PostgreSQL, SQL Server  
+**DAX**
 
-<h4>Statistical Analysis & Modeling</h4>
-<ul>
-  <li>Statistical Analysis, Hypothesis Testing</li>
-  <li>Regression Analysis (Linear, Logistic, Multiple)</li>
-  <li>Clustering & Classification, Time Series Analysis</li>
-  <li>Predictive Modeling</li>
-</ul>
+#### Data Visualization & BI Tools
+• Tableau, Power BI, Looker  
+• Excel (Advanced functions, Pivot Tables, VBA, Power Query)
 
-<h4>Data Engineering & Processing</h4>
-<ul>
-  <li>ETL (Extract, Transform, Load)</li>
-  <li>Data Cleaning & Wrangling</li>
-  <li>Data Pipeline Development, Data Warehousing</li>
-</ul>
+#### Statistical Analysis & Modeling
+• Statistical Analysis, Hypothesis Testing  
+• Regression Analysis (Linear, Logistic, Multiple)  
+• Clustering & Classification, Time Series Analysis  
+• Predictive Modeling
 
-<h4>Analytics & Methodology</h4>
-<ul>
-  <li>Exploratory Data Analysis (EDA)</li>
-  <li>Business Intelligence, Data Mining</li>
-  <li>KPI Development & Tracking</li>
-</ul>
+#### Data Engineering & Processing
+• ETL (Extract, Transform, Load)  
+• Data Cleaning & Wrangling  
+• Data Pipeline Development, Data Warehousing
 
-<h4>Soft Skills</h4>
-<ul>
-  <li>Data Storytelling, Dashboard Creation & Design</li>
-  <li>Stakeholder Communication, Problem-Solving</li>
-</ul>
+#### Analytics & Methodology
+• Exploratory Data Analysis (EDA)  
+• Business Intelligence, Data Mining  
+• KPI Development & Tracking
+
+#### Soft Skills
+• Data Storytelling, Dashboard Creation & Design  
+• Stakeholder Communication, Problem-Solving
+
+</td>
+</tr>
+</table>
 
