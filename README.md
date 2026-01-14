@@ -51,7 +51,7 @@
 **AWS:** S3, EC2, SageMaker, Redshift  
 **Azure:** Azure ML, Databricks  
 **Google Cloud Platform**  
-**Tools:** Docker, Kubernetes
+**Docker, Kubernetes**
 
 #### Data Visualization & BI Tools
 • Matplotlib, Seaborn, Plotly, ggplot2  
