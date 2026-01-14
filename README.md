@@ -55,7 +55,8 @@
 <p>
   <strong>AWS:</strong> S3, EC2, SageMaker, Redshift<br>
   <strong>Azure:</strong> Azure ML, Databricks<br>
-  <strong>Google Cloud Platform</strong> • Docker • Kubernetes
+  <strong>Google Cloud Platform</strong><br>
+  Docker, Kubernetes
 </p>
 
 <h4>Data Visualization & BI Tools</h4>
