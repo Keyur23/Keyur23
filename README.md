@@ -29,19 +29,27 @@
 </p>
 
 <h4>Machine Learning & AI</h4>
-<p>
-  Supervised Learning • Unsupervised Learning • Deep Learning (Neural Networks, CNN, RNN) • Natural Language Processing (NLP) • Ensemble Methods (Random Forest, XGBoost, Gradient Boosting) • Model Evaluation • Hyperparameter Tuning • Feature Engineering
-</p>
+<ul>
+  <li>Supervised Learning, Unsupervised Learning</li>
+  <li>Deep Learning (Neural Networks, CNN, RNN)</li>
+  <li>Natural Language Processing (NLP)</li>
+  <li>Ensemble Methods (Random Forest, XGBoost, Gradient Boosting)</li>
+  <li>Model Evaluation, Hyperparameter Tuning, Feature Engineering</li>
+</ul>
 
 <h4>Statistical Analysis & Modeling</h4>
-<p>
-  Statistical Analysis • Hypothesis Testing • Regression Analysis • Time Series Forecasting • Predictive Modeling
-</p>
+<ul>
+  <li>Statistical Analysis, Hypothesis Testing</li>
+  <li>Regression Analysis, Time Series Forecasting</li>
+  <li>Predictive Modeling</li>
+</ul>
 
 <h4>Data Engineering & Big Data</h4>
-<p>
-  ETL • Data Preprocessing • Data Pipeline Development • Hadoop • Apache Spark • Kafka • Airflow • MLOps
-</p>
+<ul>
+  <li>ETL, Data Preprocessing, Data Pipeline Development</li>
+  <li>Hadoop, Apache Spark, Kafka, Airflow</li>
+  <li>MLOps</li>
+</ul>
 
 <h4>Cloud & Infrastructure</h4>
 <p>
@@ -51,9 +59,11 @@
 </p>
 
 <h4>Data Visualization & BI Tools</h4>
-<p>
-  Matplotlib • Seaborn • Plotly • Tableau • Power BI • ggplot2 • Jupyter Notebooks
-</p>
+<ul>
+  <li>Matplotlib, Seaborn, Plotly, ggplot2</li>
+  <li>Tableau, Power BI</li>
+  <li>Jupyter Notebooks</li>
+</ul>
 
 ---
 
@@ -68,27 +78,36 @@
 </p>
 
 <h4>Data Visualization & BI Tools</h4>
-<p>
-  Tableau • Power BI • Excel (Advanced functions, Pivot Tables, VBA, Power Query) • Looker
-</p>
+<ul>
+  <li>Tableau, Power BI, Looker</li>
+  <li>Excel (Advanced functions, Pivot Tables, VBA, Power Query)</li>
+</ul>
 
 <h4>Statistical Analysis & Modeling</h4>
-<p>
-  Statistical Analysis • Regression Analysis (Linear, Logistic, Multiple) • Hypothesis Testing • Clustering & Classification • Time Series Analysis • Predictive Modeling
-</p>
+<ul>
+  <li>Statistical Analysis, Hypothesis Testing</li>
+  <li>Regression Analysis (Linear, Logistic, Multiple)</li>
+  <li>Clustering & Classification, Time Series Analysis</li>
+  <li>Predictive Modeling</li>
+</ul>
 
 <h4>Data Engineering & Processing</h4>
-<p>
-  ETL (Extract, Transform, Load) • Data Cleaning & Wrangling • Data Pipeline Development • Data Warehousing
-</p>
+<ul>
+  <li>ETL (Extract, Transform, Load)</li>
+  <li>Data Cleaning & Wrangling</li>
+  <li>Data Pipeline Development, Data Warehousing</li>
+</ul>
 
 <h4>Analytics & Methodology</h4>
-<p>
-  Exploratory Data Analysis (EDA) • Business Intelligence • KPI Development & Tracking • Data Mining
-</p>
+<ul>
+  <li>Exploratory Data Analysis (EDA)</li>
+  <li>Business Intelligence, Data Mining</li>
+  <li>KPI Development & Tracking</li>
+</ul>
 
 <h4>Soft Skills</h4>
-<p>
-  Data Storytelling • Dashboard Creation & Design • Stakeholder Communication • Problem-Solving
-</p>
+<ul>
+  <li>Data Storytelling, Dashboard Creation & Design</li>
+  <li>Stakeholder Communication, Problem-Solving</li>
+</ul>
 
