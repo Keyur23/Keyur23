@@ -21,77 +21,96 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔬 Data Scientist Skills
+**📚 Programming & Query Languages**
 
-#### Programming & Query Languages
-**Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, PyTorch  
-**R:** dplyr, ggplot2, tidyr, caret  
-**SQL:** MySQL, PostgreSQL, NoSQL
+• **Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, PyTorch  
+• **R:** dplyr, ggplot2, tidyr, caret  
+• **SQL:** MySQL, PostgreSQL, SQL Server, NoSQL  
+• **DAX**
 
-#### Machine Learning & AI
+</td>
+<td width="33%" valign="top">
+
+**🤖 Machine Learning & AI**
+
 • Supervised Learning, Unsupervised Learning  
 • Deep Learning (Neural Networks, CNN, RNN)  
 • Natural Language Processing (NLP)  
 • Ensemble Methods (Random Forest, XGBoost, Gradient Boosting)  
-• Model Evaluation, Hyperparameter Tuning, Feature Engineering
+• Model Evaluation, Hyperparameter Tuning  
+• Feature Engineering
 
-#### Statistical Analysis & Modeling
+</td>
+<td width="33%" valign="top">
+
+**📊 Statistical Analysis & Modeling**
+
 • Statistical Analysis, Hypothesis Testing  
-• Regression Analysis, Time Series Forecasting  
+• Regression Analysis (Linear, Logistic, Multiple)  
+• Time Series Forecasting, Time Series Analysis  
+• Clustering & Classification  
 • Predictive Modeling
 
-#### Data Engineering & Big Data
-• ETL, Data Preprocessing, Data Pipeline Development  
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🔧 Data Engineering & Big Data**
+
+• ETL (Extract, Transform, Load)  
+• Data Preprocessing, Data Cleaning & Wrangling  
+• Data Pipeline Development  
+• Data Warehousing  
 • Hadoop, Apache Spark, Kafka, Airflow  
 • MLOps
 
-#### Cloud & Infrastructure
-**AWS:** S3, EC2, SageMaker, Redshift  
-**Azure:** Azure ML, Databricks  
-**Google Cloud Platform**  
-**Docker, Kubernetes**
+</td>
+<td width="33%" valign="top">
 
-#### Data Visualization & BI Tools
+**☁️ Cloud & Infrastructure**
+
+• **AWS:** S3, EC2, SageMaker, Redshift  
+• **Azure:** Azure ML, Databricks  
+• **Google Cloud Platform**  
+• **Docker, Kubernetes**
+
+</td>
+<td width="33%" valign="top">
+
+**📈 Data Visualization & BI Tools**
+
 • Matplotlib, Seaborn, Plotly, ggplot2  
-• Tableau, Power BI  
+• Tableau, Power BI, Looker  
+• Excel (Advanced functions, Pivot Tables, VBA, Power Query)  
 • Jupyter Notebooks
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-### 📊 Data Analyst Skills
+**🔍 Analytics & Methodology**
 
-#### Programming & Query Languages
-**Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-**R:** dplyr, ggplot2, tidyr  
-**SQL:** MySQL, PostgreSQL, SQL Server  
-**DAX**
-
-#### Data Visualization & BI Tools
-• Tableau, Power BI, Looker  
-• Excel (Advanced functions, Pivot Tables, VBA, Power Query)
-
-#### Statistical Analysis & Modeling
-• Statistical Analysis, Hypothesis Testing  
-• Regression Analysis (Linear, Logistic, Multiple)  
-• Clustering & Classification, Time Series Analysis  
-• Predictive Modeling
-
-#### Data Engineering & Processing
-• ETL (Extract, Transform, Load)  
-• Data Cleaning & Wrangling  
-• Data Pipeline Development, Data Warehousing
-
-#### Analytics & Methodology
 • Exploratory Data Analysis (EDA)  
-• Business Intelligence, Data Mining  
-• KPI Development & Tracking
+• Business Intelligence  
+• KPI Development & Tracking  
+• Data Mining
 
-#### Soft Skills
-• Data Storytelling, Dashboard Creation & Design  
-• Stakeholder Communication, Problem-Solving
+</td>
+<td width="33%" valign="top">
+
+**💡 Soft Skills**
+
+• Data Storytelling  
+• Dashboard Creation & Design  
+• Stakeholder Communication  
+• Problem-Solving
+
+</td>
+<td width="33%" valign="top">
 
 </td>
 </tr>
